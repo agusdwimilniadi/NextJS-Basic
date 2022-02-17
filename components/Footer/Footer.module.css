@@ -1,0 +1,12 @@
+.container {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+.container p {
+  margin: auto;
+  color: white;
+  margin: 10px auto;
+}

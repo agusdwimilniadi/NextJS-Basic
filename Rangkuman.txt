@@ -1,0 +1,5 @@
+17/02/2022
+- Kenapa nextJS?
+Karena SEO Friendly, kita bisa mudah menambahkan meta tag di setiap components nya
+- Image nya kenapa?
+image diaitu akan di reduce ukuran nya ke .wepg, selain itu image akan di load saat akan dia di tampilkan saja

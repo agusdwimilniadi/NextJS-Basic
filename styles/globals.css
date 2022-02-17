@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+.container-404 {
+  width: 100%;
+  display: grid;
+  text-align: center;
+  margin-top: 100px;
+}
